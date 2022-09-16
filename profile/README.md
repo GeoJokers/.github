@@ -2,4 +2,4 @@
 
 Welcome to this Github-Profile!
 
-![Logo](https://raw.githubusercontent.com/GeoJokers/.github/main/profile/geojokers.jpeg)
+![Logo](https://github.com/geojokers.png)
